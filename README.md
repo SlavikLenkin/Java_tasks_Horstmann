@@ -69,3 +69,24 @@ interface Closeable extends AutoCloseable
 10.[Exercise12](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Interfaces%20and%20Lambda/Directory.java)
 
 11.[Exercise13](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Interfaces%20and%20Lambda/Directory.java)
+
+**Inheritance and reflection**
+
+1.[Exercise1](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Point.java)
+
+2.[Exercise2](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Point.java)
+
+3.[Exercise3](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/LabelPoint.java)
+
+4.[Exercise4](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Shape.java)
+
+5.Exercise5-
+[shape](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Shape.java),
+[circle](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Circle.java),
+[rectangle](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Rectangle.java),
+[line](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Line.java)
+
+6.[Exercise6](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/DiscountedItem.java)
+
+7.[Exercise7](https://github.com/SlavikLenkin/Java_tasks_Horstmann/blob/main/Inheritance%20and%20Reflection/Colors.java)
+
