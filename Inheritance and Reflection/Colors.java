@@ -1,7 +1,7 @@
 package com.mycompany.java_horstman.chapter4;
 
     /*
-    Exercise5
+    Exercise7
     Define an enumeration type for the eight combinations of primary colors
     BLACK, RED, BLUE, GREEN, CYAN, MAGENTA, YELLOW, WHITE with methods getRed, getGreen,
     and getBlue
