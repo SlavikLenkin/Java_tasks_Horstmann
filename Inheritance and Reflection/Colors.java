@@ -10,15 +10,15 @@ package com.mycompany.java_horstman.chapter4;
 public enum Colors {
     BLACK, RED, BLUE, GREEN, CYAN, MAGENTA, YELLOW, WHITE;
 
-    public Colors getRed() {
+    public static Colors getRed() {
         return RED;
     }
 
-    public Colors getGreen() {
+    public static Colors getGreen() {
         return GREEN;
     }
 
-    public Colors getBlue() {
+    public static Colors getBlue() {
         return BLUE;
     }
 

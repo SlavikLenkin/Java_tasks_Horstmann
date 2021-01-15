@@ -34,7 +34,7 @@ public class Car {
         double powerReserve = gallonGas / consumingGas * 100;
         if (miles < powerReserve) {
             this.miles += miles;
-            gallonGas = miles * consumingGas / 100;
+            gallonGas -= miles * consumingGas / 100;
             System.out.println("You drove " + miles + " miles");
             System.out.println("You are now " + getMiles() + " miles away");
             System.out.println("Gas left in the tank " + getGallonGas() + " gallons");
